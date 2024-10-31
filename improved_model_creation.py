@@ -238,7 +238,7 @@ def main():
     
     try:
         # Load and process data
-        # Dataset is not included as it is somewhat sensitive company internal data
+        # Dataset is not included as consists of somewhatwhat sensitive company internal data
         # See the folder improved_model_creation_outputs for more insights into the data and results
         # Also, the Project_report.pdf contains a detailed explanation of the project
         dataset = detector.load_and_preprocess_data('FINAL_DATASET.csv')

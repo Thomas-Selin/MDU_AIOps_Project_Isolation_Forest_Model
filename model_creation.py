@@ -9,7 +9,7 @@ from sklearn.decomposition import PCA
 
 ############### DATA IMPORT SECTION ########################################
 
-# Dataset is not included as it is somewhat sensitive company internal data
+# Dataset is not included as consists of somewhatwhat sensitive company internal data
 # See ../Project_report.pdf for some insights into the data and more info about the project, results and conclusions
 dataset = pd.read_csv('FINAL_DATASET.csv')  # See comments above
 
