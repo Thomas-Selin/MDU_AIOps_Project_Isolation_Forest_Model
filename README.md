@@ -1,4 +1,4 @@
-# Report and code by Thomas Selin for project 1 in the university course `Multivariate data analysis` at `Mälardalens University`
+# Report and code by Thomas Selin for project 1 in the university course `Multivariate data analysis in engineering` at `Mälardalens University`
 
 An isolation forest machine learning model for anomaly detection in an IT service component (microservice) was created.
 
